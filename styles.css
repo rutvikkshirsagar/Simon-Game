@@ -1,3 +1,10 @@
+@media only screen and (min-width: 960px) {
+  .menu{
+    visibility: hidden;
+  }
+}
+
+
 body {
   text-align: center;
   background-color: #011F3F;
